@@ -30,5 +30,5 @@ TODO
 
 | Name | Email | Contribution |
 |:--------|---------------|------------------|
-|eashwar | eashwar....@gmail.com | Think of intial idea first. Core developer |
+|eashwar | eashwar....@gmail.com | Initiator of the idea. Core developer |
 |denny | filebat....@gmail.com | Core developer |
