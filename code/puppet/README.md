@@ -1,0 +1,1 @@
+Leverage puppet to auto deploy and auto operate
