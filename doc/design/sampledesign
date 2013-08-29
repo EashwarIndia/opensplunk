@@ -29,21 +29,18 @@ Index=main
 
 step2: Read the input files and Store the Read file in the Data Store(mongodb or elastic search):
 
-Match the time-stamp For example this is the regular expression for the matching the 
-
-timestamp
+Match the time-stamp For example this is the regular expression for the matching the timestamp
 
 /opts/system/default/eventMods.conf
 [apache_*]
 regex=\d{2}/\w{3}/\d{4}:\d{2}:\d{2}:\d{2};
 SingleLineEVENT=True;
 
- 
-177.23.21.50 - - [30/May/2012:00:07:45] "GET /flower_store/product.screen?
+    177.23.21.50 - - [30/May/2012:00:07:45] "GET /flower_store/product.screen?
 
-product_id=FL-DSH-01 HTTP/1.1" 200 10901 "http://mystore.splunk.com/flower_store
+    product_id=FL-DSH-01 HTTP/1.1" 200 10901 "http://mystore.splunk.com/flower_store
 
-Above line should be stored as
+Above Event should be stored as
 
 _index=main
 _host=hostname
