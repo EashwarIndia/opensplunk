@@ -27,7 +27,7 @@ host=default;
 Type=apache_access;
 Index=main
 
-step2: Read the input files and Store the Read file in the Data Store(mongodb):
+step2: Read the input files and Store the Read file in the Data Store(mongodb or elastic search):
 
 Match the time-stamp For example this is the regular expression for the matching the 
 
