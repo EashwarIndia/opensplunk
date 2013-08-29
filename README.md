@@ -1,21 +1,19 @@
-opensplunk - TODO : get a code name
+opensplunk
 =========
 - Mission goal for the project 
 
-TODO: Some example: https://github.com/DennyZhang/xiaozibao/blob/master/README.md
+TODO: Need confirm this. Some example: https://github.com/DennyZhang/xiaozibao/blob/master/README.md
 
 ## Screenshot
 TODO: design graph
 
-TODO: product screenshot
+TODO: product screenshot, if it's ready
 
 ## Why use this
-- some feature higlighted TODO:
+- TODO: some feature highlighted
 
 ## Quick start?
-TODO
-
-## Installation
+TODO: very short instruction for users to try it
 
 - verified on ubuntu12.4, ...
 
@@ -25,6 +23,8 @@ TODO
 |... | ...|
 
 ## FAQ
+- TODO: Why opensplunk is related to openstack?
+- TODO: If users are forced to send log by tcp/udp, how to ease them pain?
 
 # Thanks to
 
