@@ -4,6 +4,11 @@ opensplunk - TODO : get a code name
 
 TODO: Some example: https://github.com/DennyZhang/xiaozibao/blob/master/README.md
 
+## Screenshot
+TODO: design graph
+
+TODO: product screenshot
+
 ## Why use this
 - some feature higlighted TODO:
 
