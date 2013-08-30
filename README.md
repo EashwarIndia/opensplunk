@@ -30,11 +30,12 @@ TODO: very short instruction for users to try it
 
 ## FAQ
 - Why feng is related to openstack?
+
 We want to contribute feng to openstack community as the standard log service.
 
 # Thanks to
 
 | Name | Email | Contribution |
 |:--------|---------------|------------------|
-|eashwar | eashwar....@gmail.com | Initiator of the idea. Core developer |
-|denny | filebat....@gmail.com | Core developer |
+|eashwar | eashwar....@gmail.com | Initiator of the idea. Core developer. Indian. |
+|denny | filebat....@gmail.com | Core developer. China/USA.  |
