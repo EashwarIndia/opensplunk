@@ -3,12 +3,15 @@ Feng
 - Mission goal for the project 
 
 Feng is designed as the open source version of splunk. 
+
 It is targeted as the standard log service for openstack.
 
-Why the project is named as Feng? 
+- Why the project is named as Feng? 
 
 Feng(FengLei) is a very famous hero in China. 
+
 His well known habit is recording daily diary. 
+
 So we use "Feng" as the project name for the log service.
 
 
@@ -27,7 +30,7 @@ TODO: very short instruction for users to try it
 
 | Name | Comment |
 |:-----------------|----|
-| Checkout github | https://github.com/DennyZhang/opensplunk |
+| Checkout github | https://github.com/DennyZhang/feng |
 |... | ...|
 
 ## FAQ
