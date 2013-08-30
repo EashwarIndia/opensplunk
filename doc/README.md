@@ -11,3 +11,4 @@ Design
 
 2. For collecting log, schedule monitor may work for initial version. We need evaluate the performance issue, and autorecover for the failure of monitor process.
 
+3. For indexing time processing, customers may want to define the composition of index by themselves.
