@@ -6,9 +6,9 @@ Feng -- target for log service of openstack
 
 - Why the project is named as Feng? 
 
-Feng(FengLei) is a very famous hero in China. 
+   Feng(FengLei) is a very famous hero in China. 
 
-His well known habit is recording daily diary. So we use "Feng" here.
+   His well known habit is recording daily diary. So we use "Feng" here.
 
 ## Screenshot
 ![](./images/design1.png)
@@ -31,7 +31,7 @@ TODO: very short instruction for users to try it
 ## FAQ
 - Why feng is related to openstack?
 
-We want to contribute feng to openstack community as the standard log service.
+   We want to contribute feng to openstack community as the standard log service.
 
 # Thanks to
 
