@@ -1,10 +1,10 @@
 Design
 =========
-![](../images/design1.png)
-![](../images/design2.png)
-![](../images/design3.png)
-![](../images/design4.png)
-![](../images/design5.png)
+![](./images/design1.png)
+![](./images/design2.png)
+![](./images/design3.png)
+![](./images/design4.png)
+![](./images/design5.png)
 
 ## Discussion
 1. Do we have SPOF problem for queue load?
