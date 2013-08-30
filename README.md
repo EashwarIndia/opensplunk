@@ -37,5 +37,5 @@ TODO: very short instruction for users to try it
 
 | Name | Email | Contribution |
 |:--------|---------------|------------------|
-|eashwar | eashwar....@gmail.com | Initiator of the idea. Core developer. Indian. |
+|eashwar | eashwar....@gmail.com | Initiator of the idea. Core developer. India/China. |
 |denny | filebat....@gmail.com | Core developer. China/USA.  |
