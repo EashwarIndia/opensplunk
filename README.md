@@ -6,8 +6,9 @@ Feng is targeted as the standard log service for openstack.
 
 - Why the project is named as Feng? 
 
-Feng(FengLei) is a very famous hero in China. His well known habit is recording daily diary. So we use "Feng" here.
+Feng(FengLei) is a very famous hero in China. 
 
+His well known habit is recording daily diary. So we use "Feng" here.
 
 ## Screenshot
 ![](./images/design1.png)
