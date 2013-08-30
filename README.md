@@ -1,8 +1,8 @@
-Feng -- target for log service of openstack
+Feng -- "openstack logservice"
 =========
 - Mission goal for the project 
 
-   Feng is targeted as the standard log service for openstack.
+   Feng is targeted to be chosen as the standard log service of openstack.
 
 - Why the project is named as Feng? 
 
