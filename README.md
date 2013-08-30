@@ -1,18 +1,12 @@
-Feng
+Feng -- target for log service of openstack
 =========
 - Mission goal for the project 
 
-Feng is designed as the open source version of splunk. 
-
-It is targeted as the standard log service for openstack.
+Feng is targeted as the standard log service for openstack.
 
 - Why the project is named as Feng? 
 
-Feng(FengLei) is a very famous hero in China. 
-
-His well known habit is recording daily diary. 
-
-So we use "Feng" as the project name for the log service.
+Feng(FengLei) is a very famous hero in China. His well known habit is recording daily diary. So we use "Feng" here.
 
 
 ## Screenshot
