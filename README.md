@@ -1,11 +1,19 @@
-opensplunk
+Feng
 =========
 - Mission goal for the project 
 
-TODO: Need confirm this. Some example: https://github.com/DennyZhang/xiaozibao/blob/master/README.md
+Feng is designed as the open source version of splunk. 
+It is targeted as the standard log service for openstack.
+
+Why the project is named as Feng? 
+
+Feng(LeiFeng) is a very famous hero in China. 
+His well known habit is recording daily diary. 
+So we use "Feng" as the project name for the log service.
+
 
 ## Screenshot
-TODO: design graph
+![](./images/design1.png)
 
 TODO: product screenshot, if it's ready
 
@@ -23,8 +31,8 @@ TODO: very short instruction for users to try it
 |... | ...|
 
 ## FAQ
-- TODO: Why opensplunk is related to openstack?
-- TODO: If users are forced to send log by tcp/udp, how to ease them pain?
+- Why feng is related to openstack?
+We want to contribute feng to openstack community as the standard log service.
 
 # Thanks to
 
