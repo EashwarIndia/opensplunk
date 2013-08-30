@@ -6,6 +6,10 @@
 | Background introduction and knowledge transfer | eashwar| 2013/08/29 | N/A |
 | Define scope of v0.1 and task list | eashwar/Denny | N/A | N/A |
 | Draft the design graph for the whole picture | eashwar| N/A | N/A |
+| Impelement the minimum Workflow | N/A| N/A | N/A |
+| Monitor change of log files, then send to mq | N/A| N/A | N/A |
+| Parse log, then convert to structured format | N/A| N/A | N/A |
+| Enable users to search log in GUI | N/A| N/A | N/A |
 
 # DONE Item
 | Item |    Owner              | Due date | Status|
