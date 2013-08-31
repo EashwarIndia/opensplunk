@@ -15,7 +15,9 @@ Downlaod above project, But have to make some changes to the config files and th
 
 vim default/elasticsearch
 MAX_OPEN_FILES=65535  << change this to MAX_OPEN_FILES=1024  (approx 300 files for 1Gigs of RAM)
-Comment the 7th line, the server is not dedicated to logservice (ElasticSearch will not start if 50% of memory is not available)
+
+
+Comment the 7th line, if the server is not dedicated to logservice (ElasticSearch will not start if 50% of memory is not available)
 
 vim logstash_server
 apt-get install git-core  << add this line to the code
