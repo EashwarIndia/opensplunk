@@ -20,10 +20,13 @@ MAX_OPEN_FILES=65535  << change this to MAX_OPEN_FILES=1024  (approx 300 files f
 Comment the 7th line, if the server is not dedicated to logservice (ElasticSearch will not start if 50% of memory is not available)
 
 vim logstash_server
+
 apt-get install git-core  << add this line to the code
+
 sed -i 's#KibanaPort =.*#KibanaPort = 80#' KibanaConfig.rb  (45th line)  << specify the port for kibana .Default it is 80 in this puppet script
 
 Now run the bash file
+
 ./logstash_server
 
 
