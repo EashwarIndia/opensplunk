@@ -1,7 +1,7 @@
-Track guideline and experience for remote work
+Track experience for remote work
 =========
 
-Figure out an effective way of cooperation by working remotely between eashwar and Denny
+Figure out an effective way for remote work, by eashwar and Denny
 
 Guideline
 =========
@@ -11,7 +11,9 @@ Guideline
 
 - send an email for the agenda first, before sync.
 
-  It may be a question list or a topic list. It can save a lot of time for both meeting holder and attendees. And everyone can be fully prepared.
+  The agenda may be a question list or a topic list. 
+
+  It can save a lot of time for both meeting holder and attendees. And everyone can be fully prepared.
 
 Skills
 =========
