@@ -1,0 +1,47 @@
+Cloud controller App:
+
+  Cloud Controller is the dedicated server that helps to build, and manage your Openstack enviroment.
+  feng will provide a monitoring and alerting platform which will enable openstack users to remotely monitor they openstack deployment.
+
+  Data inputs:
+    Openstack logs
+    Syslogs
+    Sheduled verbose output of CLI commands for performance monitoring
+
+  Outputs or Deliverables(Dashboards):
+    Status of Databases 
+    Message queue service
+    Authentication service
+    Authorization service
+    Image management service
+    User dashboard
+    API endpoints
+  
+  Deployment Scalability considerations:
+    Number of active insistences in last 15 minutes
+      <current value>  
+      <current hardware and recommended hardware for the current value>
+    
+    How frequently a new instance is created?
+      <current>
+      <projecting to the future using the past values, and recommend hardware>
+   
+    How many compute nodes are running?
+      <current>
+      <recommended hardware>
+    
+    How many users are accessing the API?
+      <current>
+      <recommended hardware>
+    
+    How many users are accessing the dashboard?
+      <current>
+      <recommended hardware>
+    
+    How many nova-api services are running?
+      <current>
+      <recommended hardware>
+    
+    Single instance runtime over time, by host, by users?
+
+
