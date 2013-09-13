@@ -1,6 +1,7 @@
 # TODO Items
 | Item             |    Owner              | Due date | Status|
 |:-----|--------------|--------------|------------------| 
+| Get the POC version running, by intergating logstash, elasticsearch, kibana | eashwar/Denny | N/A | N/A |
 | Monitor change of log files, then send to redis | eashwar| N/A | N/A |
 | Parse log, then convert to structured format | Denny| N/A | N/A |
 | Enable users to search log in GUI | N/A| N/A | Denny |

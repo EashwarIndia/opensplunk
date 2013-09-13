@@ -2,6 +2,14 @@ Design
 =========
 ## High level design
 For version1 or POC, we mainly use logstash+elasticsearch+kibana.
+- logstash: collect or receive logs
+  http://logstash.net
+
+- elasticsearch: managing logs by lucent
+  http://www.elasticsearch.org: 
+
+- kibana: frontend(html+css) for the gui of logservice
+  http://kibana.org
 
 Later we will:
 - Make it more python
