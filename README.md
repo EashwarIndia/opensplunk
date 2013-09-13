@@ -21,6 +21,8 @@ Feng -- "openstack logservice"
 | Communitcation conventions | [Lesson learn for remote cooperation](REMOTE_WORK.md)|
 
 ## Screenshot
+![](./images/kibana.png)
+
 ![](./images/design1.png)
 
 TODO: product screenshot, if it's ready
