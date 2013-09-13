@@ -1,9 +1,22 @@
 Design
 =========
+## High level design
+For version1 or POC, we mainly use logstash+elasticsearch+kibana.
+
+Later we will:
+- Make it more python
+
+- Improve the availablity and scalability
+
+## Design illustration
 ![](./images/design1.png)
+=========
 ![](./images/design2.png)
+=========
 ![](./images/design3.png)
+=========
 ![](./images/design4.png)
+=========
 ![](./images/design5.png)
 
 ## Discussion

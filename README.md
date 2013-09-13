@@ -15,7 +15,10 @@ Feng -- "openstack logservice"
 ## Documentation
 | Name | Comment |
 |:-----------------|----|
-| Design page | [design page](Design.md)|
+| Design page | [design and discussion](Design.md)|
+| Task list | [Current tasks list](TODO.md)|
+| Installation guide | [How to install](INSTALL.md)|
+| Communitcation conventions | [Lesson learn for remote cooperation](REMOTE_WORK.md)|
 
 ## Screenshot
 ![](./images/design1.png)
