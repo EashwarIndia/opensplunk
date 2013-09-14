@@ -2,11 +2,13 @@ Feng -- "openstack logservice"
 =========
 - Mission goal for the project 
 
-   Feng is targeted to be chosen as the standard log service of openstack. 
-
-   Feng will be a Data engine, which can index the data which it receives and make it searchable via a google like search interface. Feng can provide search, analytics and visualization capabilities to data stored in your openstack environment or other storage systems. Our aim is to design a opensource, easy to use, plug and play data analytics Engine.
+   Feng is targeted to be chosen as the standard log service of openstack.
    
-   The feng project was started with goal to provide a realtime data analytics engine for OpenStack. It will be design to collect any data from the openstack environment in real-time for IT search, In-depth analytics, and visualization. It will be design to monitor Core openstack components, as well as the applications running on the virtual machines. 
+   The Feng project was started with goal to provide a realtime data analytics engine for OpenStack. It will be design to collect any data from the openstack environment in real-time for IT search, In-depth analytics, and visualization. Feng will Monitor the Core openstack components, as well as the applications running in the virtual machines. Our aim is to design a opensource, easy to use, plug and play data analytics Engine.
+
+   It will be designed to collect unstructured data from any source, and index the data which it collects and make it searchable via a google like search interface. Feng can provide search, analytics and visualization capabilities to data stored in your openstack environment. 
+   
+    
 
 - Why the project is named as Feng? 
 
