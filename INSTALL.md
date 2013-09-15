@@ -22,30 +22,33 @@ sudo service redis status
 2. Install and configure ElasticSearch
 
 TODO:
-wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.3.deb
+sudo mkdir --parents /usr/local/feng
+sudo wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.3.deb
 sudo dpkg -i elasticsearch-0.90.3.deb
 sudo service elasticsearch start
 
 3. Install and configure Logstash
 
 TODO:
-sudo mkdir —-parents /usr/local/bin/logstash
-sudo cd /usr/local/bin/logstash
-wget https://logstash.objects.dreamhost.com/release/logstash-1.2.1-flatjar.jar
-cd ~
-sudo mkdir —-parents /opt/logstashconfig
-sudo java -jar /usr/local/bin/logstash/logstash.jar agent --config /opt/logstashconfig/redis2elasticsearch.conf -w 1 &
-sudo java -jar /usr/local/bin/logstash/logstash.jar agent --config /opt/logstashconfig/logfile2redis.conf -w 2 &
+sudo mkdir --parents /usr/local/feng/bin/logstash
+sudo cd /usr/local/feng/bin/logstash
+sudo wget https://logstash.objects.dreamhost.com/release/logstash-1.2.1-flatjar.jar
+sudo mv logstash-1.2.1-flatjar.jar  logstash.jar
+sudo mkdir --parents /usr/local/feng/config/logstash
 
 5. install and configure nginx
 TODO:
 sudo apt-get install nginx
-vim  /etc/nginx/sites-enabled/default
-#change the default port 80 to 9000(optional)
+sudo vim  /etc/nginx/sites-enabled/default
+#manually change the default port 80 to 9000(optional) or sed  -i /#listen  80;/  listen   9000; /
 sudo service nginx restart
 
+6. start logstash
 
-6. Install and configure Kibana
+sudo java -jar /usr/local/feng/bin/logstash/logstash.jar agent --config /usr/local/feng/config/logstash/redis2elasticsearch.conf -w 1 &
+sudo java -jar /usr/local/feng/bin/logstash/logstash.jar agent --config /usr/local/feng/config/logstash/logfile2redis.conf -w 2 &
+
+7. Install and configure Kibana
 
 TODO:
 cd /usr/share/nginx/www/
